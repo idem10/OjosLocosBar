@@ -1,0 +1,16 @@
+{
+  "alumnos": [
+    {
+      "nombre": "Alejandra Gamez de Leon",
+      "descripcion": "Estudiante de ingenieria en sistemas en el tecnologico de saltillo",
+      "apellidos": "??",
+      "image": "http://tiendajsondanielyalejandra.hol.es/10405601_10203928578325730_6603906127652550714_n.jpg"
+    },
+    {
+      "nombre": "Hector Daniel",
+      "descripcion": "Estudiante de ingenieria en sistemas en el tecnologico de saltillo",
+      "apellidos": "25",
+      "image": "http://tiendajsondanielyalejandra.hol.es/10405601_10203928578325730_6603906127652550714_n.jpg"
+    }
+   ]
+}	
